@@ -1,0 +1,8 @@
+# Ignorar la carpeta db/
+db/
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Otras reglas que puedas necesitar para archivos temporales
